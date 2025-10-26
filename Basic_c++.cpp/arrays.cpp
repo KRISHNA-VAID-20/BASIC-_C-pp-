@@ -74,7 +74,7 @@
 //         {
 //             odd += 1;
 //         }
-//     }
+//     }   
 //     cout << "No. of even : " << even << endl;
 //     cout << "No. of odd: " << odd;
 //     return 0;
@@ -93,4 +93,9 @@
 //     }
 //     return 0;
 // }
+#include <iostream>
 
+using namespace std;
+int main(){
+    cout << "EHllo bro ";
+}
