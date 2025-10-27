@@ -82,26 +82,24 @@
 //     int result;
 //     result = sum(5, 10);
 //     cout << "Sum is : " << result;
-//     return 0;
+
+// #include <iostream>
+// using namespace std;
+
+// int getnumber()
+// {
+//     int n;
+//     cout << "Enter a number : ";
+//     cin >> n;
+//     return n;
 // }
 
-#include <iostream>
-using namespace std;
+// int main()
+// {
 
-int getnumber()
-{
-    int n;
-    cout << "Enter a number : ";
-    cin >> n;
-    return n;
-}
-
-int main()
-{
-
-    cout << "Number Entered : " << getnumber();
-    return 0;
-}
+//     cout << "Number Entered : " << getnumber();
+//     return 0;
+// }
 
 // #include <iostream>n
 // using namespace std;
